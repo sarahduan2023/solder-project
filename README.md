@@ -1,34 +1,71 @@
 # solder-project
-Simple LED blinking circuit for Hack Club Solder submission
-LED Blinking Circuit for Hack Club Solder
+Project Description
 
-This is a simple hardware project for Hack Club's Solder submission. It features a blinking LED circuit built on a breadboard (with optional soldering).
+This is a simple hardware project for Hack Club's Solder submission. It features a blinking LED circuit built on a breadboard. The LED blinks on and off using a basic timing circuit (or manual switching, depending on the final setup). This project is designed to be beginner-friendly and demonstrates basic electronics concepts.
 
-Project Overview
-
-
-Goal: Create a circuit that makes an LED blink on and off.
+Bill of Materials (BOM)
 
 
 
-Status: Work in progress.
+
+
+Breadboard (1x, mini or standard size)
 
 
 
-Submitted to: Hack Club Solder
-
-Folders
+LED (1x, any color, e.g., red, 5mm)
 
 
 
-/docs/: Build guide and documentation.
+Resistor (1x, 220-330 ohms, to limit current to the LED)
 
 
 
-/images/: Photos of the circuit.
+Jumper wires (2-4x, for connections)
 
 
 
-/schematics/: Circuit diagrams (if applicable).
+Power source (e.g., 3-5V battery pack, USB power, or 9V battery with a voltage regulator)
 
-More details coming soon!
+
+
+(Optional) Push button or capacitor (for blinking effect, if not using a microcontroller)
+
+Note: Parts can be sourced from local electronics stores or online (e.g., Amazon, AliExpress, or DigiKey).
+
+Schematics, PCB, and 3D Views
+
+
+
+
+
+Schematic: A simple hand-drawn or software-generated schematic will be added to the /schematics/ folder after circuit assembly.
+
+
+
+PCB and 3D Views: This project uses a breadboard instead of a custom PCB, so no PCB design or Gerber files are included. A photo of the breadboard setup will be provided in the /images/ folder.
+
+Slack Username
+
+
+
+
+
+My Hack Club Slack username: [Sarah Duan ]
+(Note: Join the Hack Club Slack at slack.hackclub.com if you haven't already, and add your username here.)
+
+Additional Files
+
+
+
+
+
+This project does not involve a custom PCB, so no Gerber or drill files are included.
+
+
+
+All relevant files (schematics, photos, documentation) will be added to the /docs/, /images/, and /schematics/ folders after completing the circuit.
+
+Project Status
+
+Work in progress. Circuit assembly and documentation will be updated soon!
