@@ -15,7 +15,7 @@ This is a simple hardware project for Hack Club's Solder submission. It features
 
 ## Schematics, PCB, and 3D Views
 - **Schematic**: See the circuit schematic below (designed in EveryCircuit):
-  ![Circuit Schematic](schematics/schematic.png)
+  ![Circuit Schematic](schematic.png)
 - **PCB and 3D Views**: This project uses a breadboard instead of a custom PCB, so no PCB design or Gerber files are included. A photo of the breadboard setup will be provided in the /schematics/schematic.png folder once physically assembled.
 
 ## Slack Username
